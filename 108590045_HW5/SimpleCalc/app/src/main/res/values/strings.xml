@@ -17,7 +17,7 @@
 
 <resources>
     <!-- Title of app -->
-    <string name="app_name">SimpleCalcTest</string>
+    <string name="app_name">108590045_HW5</string>
 
     <!-- Hint for first operand EditText -->
     <string name="type_operand_one_hint">Type Operand 1</string>
