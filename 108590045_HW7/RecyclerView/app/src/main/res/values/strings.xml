@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">108590045_HW7</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title0">Best-Ever Flan</string>
+    <string name="content0">In our opinion, Flan (AKA the classic baked custard often served in Latin America  Spain) never goes out of style. Pour yourself a freshly brewed cup of coffee and dig in to one of the creamiest, most luxurious desserts ever.</string>
+    <string name="title1">Tres Leches Cake</string>
+    <string name="content1">This Tres Leches Cake recipe is the perfect light and airy dessert and a Latin American favorite. Tres Leches means "three milks" and is a sponge cake that contains three different types of milks. Its basically the original poke cake.</string>
+    <string name="title2">Easy Homemade Churros</string>
+    <string name="content2">You can find a type of fried dough in nearly every cuisine and one of our favorites is the Spanish churro. Many countries have adopted the churro since its creation and our version more closely resembles the Mexican version.</string>
+    <string name="title3">Instant Pot Shredded Beef Nachos</string>
+    <string name="content3">Who doesnt love a big tray of nachos? These are particularly good, considering theyre loaded with delicious, tender braised beef chuck roast. If your cut of meat is especially big, you can save the leftovers for quick and easy tacos—just add tortillas!</string>
+    <string name="title4">Best-Ever Borsht</string>
+    <string name="content4">This rich, flavorful broth is PERFECT for dipping. We suggest a thick slice of homemade bread, if you can swing it!</string>
+    <string name="title5">Air Fryer Cinnamon Rolls</string>
+    <string name="content5">If homemade cinnamon rolls seem like too much work on Saturday morning then weve found you the perfect solution. No need to wait on dough to rise with these easy air fryer cinnamon rolls. We used crescent dough to make everything as simple as possible without losing any flavor!</string>
+    <string name="recipe0">INGREDIENTS \n 1 3/4 c. heavy cream \n 1 c. whole milk \n 1 tsp. pure vanilla extract \n Pinch kosher salt \n 1 1/2 c. granulated sugar, divided \n 3 large eggs \n 3 large egg yolks</string>
+    <string name="recipe1">INGREDIENTS \n FOR THE CAKE \n Cooking spray \n 1 1/2 c. all-purpose flour \n 1 1/2 tsp. baking powder \n 1/2 tsp. kosher salt \n 5 large eggs, separated \n 1 1/4 c. granulated sugar, divided \n 1 tsp. pure vanilla extract \n 1/2 c. milk \n 1/4 c. melted butter, cooled</string>
+    <string name="recipe2">INGREDIENTS \n FOR THE CHURROS \n 1 c. water \n 6 tbsp. butter \n 2 tbsp. granulated sugar \n 1 tsp. pure vanilla extract \n 1 c. all-purpose flour \n 1 tsp. kosher salt \n 2 large eggs \n Vegetable oil, for frying \n Cinnamon sugar</string>
+    <string name="recipe3">INGREDIENTS \n FOR THE CHUCK ROAST: \n 1 2-lb. beef chuck roast \n 2 tsp. dried oregano \n 2 tsp. brown sugar \n 1 1/2 kosher salt \n 1 tsp. chili powder \n 1 tsp. cumin</string>
+    <string name="recipe4">INGREDIENTS \n 1 tbsp. butter \n 1 tbsp. extra virgin olive oil \n 1 medium yellow onion, chopped \n 2 medium carrots, peeled and diced \n 2 celery stalks, diced \n 2 garlic cloves, minced \n 1/2 tsp. paprika</string>
+    <string name="recipe5">INGREDIENTS \n FOR THE ROLLS \n 2 tbsp. melted butter, plus more for brushing \n 1/3 c. packed brown sugar \n 1/2 tsp. ground cinnamon \n Kosher salt \n All-purpose flour, for surface \n 1 (8-oz.) tube refrigerated Crescent rolls</string>
+
+</resources>
