@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">108590045_HW10</string>
+    <string-array name="url_normalization">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
